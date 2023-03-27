@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shadabala
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...Data Analytics
+- 🌱 I’m also familiar with Python / Ms Excel / MySQl / Power BI/ Tableau / Google Analytics
+- 💞️ I’m looking to collaborate on ...Data Analyst / Business Analyst / Data Science / Tableau Developer / Power Bi Developer
 - 📫 How to reach me ...+919807770015
 
 <!---
